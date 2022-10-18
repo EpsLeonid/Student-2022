@@ -5,3 +5,7 @@ t=-10:1:100;
 y = func_exp(A, tau1, tau2, t);
 figure;
 plot(t,y);
+h=7;
+l=7;
+M=16;
+s = filtr_ex(h,l,M,t,y);
