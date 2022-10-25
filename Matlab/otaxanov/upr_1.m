@@ -1,0 +1,11 @@
+A=1;
+t1=16;
+t2=5;
+t=-10:1:100;
+y = function_2(A, t1, t2, t);
+figure;
+plot(t,y);
+h=7;
+l=7;
+M=16;
+s = function_2(h,l,t,y);
