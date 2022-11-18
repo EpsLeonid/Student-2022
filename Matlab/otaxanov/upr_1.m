@@ -8,4 +8,6 @@ plot(t,y);
 h=7;
 l=7;
 M=16;
-s = function_2(h,l,M,t,y);
+s = urok_3(l,M,t,y);
+figure;
+plot(t,s);
