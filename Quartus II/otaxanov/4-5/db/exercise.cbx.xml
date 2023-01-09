@@ -1,6 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="exercise">
-		<CBX_INST_ENTRY INSTANCE_NAME="|exercise|lpm_mult:Mult0" CBX_FILE_NAME="mult_lv01.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
