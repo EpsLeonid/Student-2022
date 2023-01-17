@@ -1,0 +1,40 @@
+Added Component: Designator=C5(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9*(RC0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ñ4(RC0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=+3.3V Pin=C6-1
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=+3.3V Pin=C7-1
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=C8-1
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=+1.8V Pin=C10-1
+Added Pin To Net: NetName=DGND Pin=C10-2
+Added Pin To Net: NetName=+1.8V Pin=C11-1
+Added Pin To Net: NetName=DGND Pin=C11-2
+Added Pin To Net: NetName=+5V Pin=C12-1
+Added Pin To Net: NetName=AGND Pin=C12-2
+Added Pin To Net: NetName=AGND Pin=R9*-1
+Added Pin To Net: NetName=DGND Pin=R9*-2
+Added Pin To Net: NetName=+3.3V Pin=Ñ4-1
+Added Pin To Net: NetName=AGND Pin=Ñ4-2
